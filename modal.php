@@ -27,7 +27,7 @@
       </div>
 
       <div class="modal-footer">
-        <button type="button" class="btn btn-outline-dark" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-outline-dark" data-bs-dismiss="modal"><a href="index.php">Close</a></button>
       </div>
       
     </div>
